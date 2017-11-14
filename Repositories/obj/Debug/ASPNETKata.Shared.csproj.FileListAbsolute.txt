@@ -1,0 +1,11 @@
+C:\Users\darre\source\repos\BugFixExercise\Repositories\bin\Debug\Repositories.dll.config
+C:\Users\darre\source\repos\BugFixExercise\Repositories\bin\Debug\Repositories.dll
+C:\Users\darre\source\repos\BugFixExercise\Repositories\bin\Debug\Repositories.pdb
+C:\Users\darre\source\repos\BugFixExercise\Repositories\bin\Debug\Dapper.dll
+C:\Users\darre\source\repos\BugFixExercise\Repositories\bin\Debug\MySql.Data.dll
+C:\Users\darre\source\repos\BugFixExercise\Repositories\bin\Debug\Dapper.xml
+C:\Users\darre\source\repos\BugFixExercise\Repositories\bin\Debug\MySql.Data.xml
+C:\Users\darre\source\repos\BugFixExercise\Repositories\obj\Debug\ASPNETKata.Shared.csprojResolveAssemblyReference.cache
+C:\Users\darre\source\repos\BugFixExercise\Repositories\obj\Debug\ASPNETKata.Shared.csproj.CoreCompileInputs.cache
+C:\Users\darre\source\repos\BugFixExercise\Repositories\obj\Debug\Repositories.dll
+C:\Users\darre\source\repos\BugFixExercise\Repositories\obj\Debug\Repositories.pdb
